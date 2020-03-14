@@ -19,7 +19,7 @@
  ### ProcuraIntent(remedio)
     Tal Intent pergunta o que exatamente o usuário deseja na bula e com base nisto retorna a informação utilizando o método get_bula para acessar a url e obter os dados tratados, para que possa informar da maneira menos complexa possível. 
 
-## **Mapa de intent exemplo de gatilho, variáveis e retorno esperado **
+## **Mapa de intent**
  
  ### LembrarIntent(remedio)
     Gatilho: lembre-me, me lembre, lembrar, marcar, agendar ou agende.
